@@ -1,1 +1,1 @@
-# Descriptive-Statistics-Case-Study
+# DESCRIPTIVE-STATS-CASE-STUDY
